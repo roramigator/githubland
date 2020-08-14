@@ -1,0 +1,14 @@
+body {
+  font-family: "Geo", sans-serif;
+  background-color: #e9ecef;
+}
+
+.hero {
+  display: flex;
+  align-items: flex-start;
+}
+.legend {
+  line-height: 5px;
+  margin: 0;
+  padding: 0;
+}
